@@ -1,5 +1,6 @@
-# Authentication System
- (Assignment 2)
+
+# Authentication System 
+(Assignment 2)
 
 ## 📌 Description
 This project is a responsive authentication system built using HTML, CSS, and Bootstrap 5.
@@ -24,6 +25,3 @@ This project is a responsive authentication system built using HTML, CSS, and Bo
 
 ## 👩‍💻 Author
 Rakshitha G A
-
-## 📸 Screenshots
-Screenshots of all pages are included in the screenshots folder.
